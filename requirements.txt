@@ -1,0 +1,9 @@
+boto3
+streamlit
+unstructured
+langchain-aws
+langchain-community
+pandas
+plotly
+numpy
+docarray

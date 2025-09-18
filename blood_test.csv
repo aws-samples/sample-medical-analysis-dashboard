@@ -1,0 +1,16 @@
+Parameter,Value,Reference_Range,Unit
+Hemoglobin,14.2,13.5-17.5,g/dL
+RBC,5.1,4.5-5.9,million/µL
+WBC,75,40-110,cells/µL
+Hematocrit,42,41-50,%
+MCV,88,80-96,fL
+MCH,29.8,27-33,pg
+MCHC,33.5,32-36,g/dL
+Neutrophils,62,40-70,%
+Lymphocytes,28,20-40,%
+Monocytes,7,2-10,%
+Eosinophils,2,1-4,%
+Basophils,1,0-1,%
+Glucose,95,70-100,mg/dL
+Creatinine,0.9,0.7-1.3,mg/dL
+BUN,15,7-20,mg/dL
