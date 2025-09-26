@@ -65,7 +65,7 @@ try:
         region_name='us-east-1'
     )
     s3_client = session.client('s3')
-    BUCKET_NAME = "medical-dashboard-stack-medicalreportsbucket-e5fx61kcuyb8"
+    BUCKET_NAME = "YOUR_S3_BUCKET_NAME"
 except Exception as e:
     st.error(f"AWS Configuration Error: {str(e)}")
 
