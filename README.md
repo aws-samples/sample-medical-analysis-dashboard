@@ -59,9 +59,9 @@ aws s3 cp blood_test_2024.csv s3://BUCKET_NAME/
 aws s3 cp basic_test_2024.csv s3://BUCKET_NAME/
 ```
 
-7. Update S3 bucket name in `app.py`:
+7. Update S3 bucket name in `app.py` Line 68:
 ```python
-BUCKET_NAME = "your-bucket-name"  # Line 57
+BUCKET_NAME = "YOUR_S3_BUCKET_NAME"  # Line 68
 ```
 
 8. Run the application:
